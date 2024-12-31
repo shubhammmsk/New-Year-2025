@@ -1,0 +1,48 @@
+/* Existing CSS (same as provided above) */
+
+/* Add these styles for the input interface */
+.input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+  }
+  
+  .input-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .input-container input {
+    font-size: 1.2rem;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .input-container button {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff00c3;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .input-container button:hover {
+    background-color: #e000af;
+  }
+  
+  .new-year-container {
+    position: relative;
+    height: 100vh;
+  }
+  
+  
