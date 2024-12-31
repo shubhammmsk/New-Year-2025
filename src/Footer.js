@@ -13,16 +13,16 @@ function Footer  ()  {
                 <h4>Made by shubhmmsk © 2025 All Rights Reserved<br></br><span className='connect'> Connet with us 💖</span></h4>
             </div>
             <div className="social-links">
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/_shubham.sk" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-instagram"></i>
                 </a>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/shubhammmsk" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-github"></i>
                 </a>
-                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-                    <i className="fab fa-facebook"></i>
+                <a href="https://www.youtube.com/@Talkswithcode" target="_blank" rel="noopener noreferrer">
+            <i className="fab fa-youtube"></i>
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/shubham-kadam-98b3801b5 " target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-linkedin"></i>
                 </a>
             </div>
